@@ -45,6 +45,7 @@ Ohjelman etusivu:
 <img width="806" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/990514b6-71cd-480b-8c4e-5435d114bc2b">
 
 Uuden asiakkaan lisäys:
+
 <img width="360" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/d744a8cc-af62-435e-b727-9ef405466418">
 
 Tilan valinta:
@@ -68,7 +69,9 @@ Vahvistetaan laskun tallennus:
 <img width="616" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/8fea2a2a-53d3-41bb-b9c9-55d4d0b49c49">
 
 Laskuja voi hallita valitsemalla asiakas ja sen lasku:
+
 <img width="615" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/0449343c-d259-47a7-ab9d-10fe1abebb86">
+
 <img width="614" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/cc653ae8-c360-4b46-9913-8a1fe065fbfe">
 
 Kaikki laskut on alasvetovalikossa:
@@ -76,7 +79,9 @@ Kaikki laskut on alasvetovalikossa:
 <img width="614" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/d6f7abb1-2e94-4c5e-be05-13e75d2a1a96">
 
 Laskua voi muokata, vaihtamalla asiakasta, tilaa, varauksen ajankohtaa, lisäpavleluita. Esimerkiksi tilan vaihdosta tulee varmistus:
+
 <img width="615" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/ddd8e1d5-0f51-4ded-a6d8-78e17fc17d86">
+
 <img width="613" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/d58b63d1-8dd8-41b7-befa-1e3e40c505f8">
 
 ASIAKASREKISTERI
@@ -97,6 +102,7 @@ LISÄPALVELUT
 Lisäpalveluita voi hallinnoida, muokata, lisätä, poistaa, hakea
 
 <img width="396" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/a3c3c5f1-2055-40b9-a159-5b46b8686451">
+
 <img width="393" alt="image" src="https://github.com/hennojala/Toimistotilojen-varausjarjestelma/assets/108032404/a3a8221d-a35d-4b65-a554-04535687ee24">
 
 Lisäys:
