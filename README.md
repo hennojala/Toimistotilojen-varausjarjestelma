@@ -5,6 +5,7 @@ Tekniikat: Visual Studio, WPF(C#, XAML), MariaDB, HeidiSQL, ERDPlus(suunnittelus
 
 Roolini: Roolini työssä oli suuri projektinjohtajana, yhtenä käyttöliittymän suunnittelijana, testaajana, Azure DevOps backlogin ylläpitäjänä, sekä koodasin ja avustin muita.
 Työhön liittyi paljon suunnitelmia, dokumentaatiota, testausta, palavereja ja raportteja.
+
 ---
 ### Harjoitustyön kuvaus
 Toimistotilojen varausjärjestelmä.
