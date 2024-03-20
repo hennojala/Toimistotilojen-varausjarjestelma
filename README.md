@@ -2,7 +2,8 @@
 Ohjelmistotuotanto I -kurssin harjoitustyö, ryhmätyö (6hlo), 2023.
 
 Tekniikat: Visual Studio, WPF(C#, XAML), MariaDB, HeidiSQL, ERDPlus(suunnittelussa), Azure DevOps (versionhallinta ja projektinseuranta).
-
+Roolini: Roolini työssä oli suuri projektinjohtajana, yhtenä käyttöliittymän suunnittelijana, testaajana, Azure DevOps backlogin ylläpitäjänä, sekä koodasin ja avustin muita.
+Työhön liittyi paljon suunnitelmia, dokumentaatiota, testausta, palavereja ja raportteja.
 ---
 ### Harjoitustyön kuvaus
 Toimistotilojen varausjärjestelmä.
@@ -36,8 +37,7 @@ Ohjelma vaatii Visual Studion ja MariaDB:n toimiakseen.
 - Ohjelma poistaa ja luo uuden tietokannan joka ajon yhteydessä, tämä oli myös harjoitustyön vaatimuksena.
 
 Harjoitustyö arvioitu 5 (asteikko 1-5) ja sama numeron itselleni koko kurssista.
-Oma roolini työssä oli suuri projektinjohtajana, yhtenä käyttöliittymän suunnittelijana, testaajana, Azuren ylläpitäjänä, sekä koodasin ja avustin muita.
-Työhön liittyi paljon suunnitelmia, dokumentaatiota, testausta, palavereja ja raportteja.
+
 
 --
 
